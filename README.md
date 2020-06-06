@@ -11,14 +11,45 @@ Instrutor: [Diego Fernandes (CTO Rocketseat)](https://github.com/diego3g)
 
 ## Tecnologias:
 
-<ul>
-  <li><img src="img/js.png" height="15" alt="JavaScript">&nbsp; JavaScript</li>
-  <li><img src="img/react.png" height="15" alt="React"> React</li>
-  <li><img src="img/react-native.png" height="15" alt="React-Native"> React Native</li>
-  <li><img src="img/node.png" height="15" alt="Node.js">&nbsp; Node.js</li>
-  <li><img src="img/sqlite.png" height="15" alt="SQLite">&nbsp; SQLite</li>
-    <li><img src="img/expo.png" height="15" alt="React-Native">&nbsp; Expo</li>
-</ul>
+Foram utilizados frameworks e libraries da poderosa stack <img src="img/js.png" height="15" alt="JavaScript"> **JavaScript**.
+
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="33%">Frontend</th>
+      <th width="33%">Backend</th>
+      <th width="33%">Mobile</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <ul>
+          <li><img src="img/react.png" height="15" alt="React"> React</li>
+          <li><img src="img/axios.png" height="15" alt="Axios"> Axios (HTTP client)</li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li><img src="img/node.png" height="15" alt="Node.js">&nbsp; Node.js</li>
+          <li><img src="img/express.png" height="15" alt="Express"> Express</li>
+          <li><img src="img/knex.png" height="15" alt="Knex">&nbsp; Knex (SQL query builder)</li><br>
+          <li><img src="img/sqlite.png" height="15" alt="SQLite">&nbsp; SQLite</li><br>
+          <li>Celebrate (Validation Library)</li>
+          <li><img src="img/jest.png" height="15" alt="Jest">&nbsp;Jest (Testing Framework)</li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li><img src="img/expo.png" height="15" alt="React-Native">&nbsp; Expo</li>
+          <li><img src="img/react.png" height="15" alt="React"> React</li>
+          <li><img src="img/react-native.png" height="15" alt="React-Native"> React Native</li>
+          <li><img src="img/axios.png" height="15" alt="Axios"> Axios (HTTP client)</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
