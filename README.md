@@ -9,26 +9,26 @@ Instrutor: [Diego Fernandes (CTO Rocketseat)](https://github.com/diego3g)
 
 ---
 
-### Tecnologias
+### 🛠 Tecnologias
 
 Foram utilizados frameworks e libraries da poderosa stack **JavaScript**.
 
-#### Frontend
+#### 👨‍💻 Frontend
 
 - [x] React
 - [x] Axios (HTTP client)
 
-#### Backend
+#### ⚙ Backend
 
 - [x] Node.js
 - [x] Express.js
 - [x] Knex (SQL query builder)
 - [x] SQLite3
+- [x] Tests
+  - [x] Celebrate (Validation Library)
+  - [x] Jest (Testing Framework)
 
-- [x] Celebrate (Validation Library)
-- [x] Jest (Testing Framework)
-
-#### Mobile
+#### 📱 Mobile
 
 - [x] Expo
 - [x] React
@@ -37,23 +37,25 @@ Foram utilizados frameworks e libraries da poderosa stack **JavaScript**.
 
 ---
 
-### Layout
+### 🖌 Layout
 
-- [x] Figma [Layouts da aplicação.](https://www.figma.com/file/2C2yvw7jsCOGmaNUDftX9n/Be-The-Hero---OmniStack-11?node-id=0%3A1)
+- Figma [Layouts da aplicação.](https://www.figma.com/file/2C2yvw7jsCOGmaNUDftX9n/Be-The-Hero---OmniStack-11?node-id=0%3A1)
+
+### 📷 Screen captures
 
 <div align="center">
   <img src="docs/web1.png" alt="Login">
   <img src="docs/web2.png" alt="Cadastro">
-  <img src="docs/web3.png" alt="Cadastro novo caso">
+  <img src="docs/web3.png" alt="Cadastrar novo caso">
   <img src="docs/web4.png" alt="Casos cadastrados"><br/>
-  <img src="docs/mobile1.png" width="280" alt="">&nbsp;
-  <img src="docs/mobile2.png" width="280" alt="">&nbsp;
-  <img src="docs/mobile3.png" width="280" alt="">
+  <img src="docs/mobile1.png" width="280" alt="Splash screen">&nbsp;
+  <img src="docs/mobile2.png" width="280" alt="Lista de incidentes">&nbsp;
+  <img src="docs/mobile3.png" width="280" alt="Detalhes do caso">
 </div>
 
 ---
 
-### Instruções
+### 📚 Instruções
 
 - Para instalar as dependências, execute `npm install` nas pastas *backend*, *frontend* e *mobile*.
 
